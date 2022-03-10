@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p style="text-align: center"> BS Computer Science student of the University of the Philippines Los Baños </p>
+
 <!--
 **clrayel/clrayel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
